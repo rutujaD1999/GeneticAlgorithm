@@ -1,2 +1,2 @@
 # GeneticAlgorithm
-Genetic Algorithm used for implementing travelling saleman problem in C++.
+Genetic Algorithm used for implementing travelling salesman problem in C++.
